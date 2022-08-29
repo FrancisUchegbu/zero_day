@@ -1,1 +1,1 @@
-"*Emphaize*" 
+*Emphaize*
